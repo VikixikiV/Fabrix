@@ -1,0 +1,2 @@
+# Fabrix
+Private finance tracker
